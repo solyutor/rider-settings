@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Kernel\Domain\TypeSystem\ProductLedgerTypes.cs'" />
-    <option name="defaultScopeName" value="File '...\Kernel\Domain\TypeSystem\ProductLedgerTypes.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Kernel\Domain\TypeSystem\ProductLedgerTypes.cs'" />
+    <option name="customScope" value="File '...\Kernel\Domain\TypeSystem\HardcodedTypes\DateTypes.cs'" />
+    <option name="defaultScopeName" value="File '...\Kernel\Domain\TypeSystem\HardcodedTypes\DateTypes.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Kernel\Domain\TypeSystem\HardcodedTypes\DateTypes.cs'" />
   </component>
 </application>
