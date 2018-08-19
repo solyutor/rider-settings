@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Kernel\Domain\TypeSystem\ProductLedgerTypes.cs'" />
-    <option name="defaultScopeName" value="File '...\Kernel\Domain\TypeSystem\ProductLedgerTypes.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Kernel\Domain\TypeSystem\ProductLedgerTypes.cs'" />
+    <option name="customScope" value="File '...\SolarWind\Internals\StackBasedPool.cs'" />
+    <option name="defaultScopeName" value="File '...\SolarWind\Internals\StackBasedPool.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\SolarWind\Internals\StackBasedPool.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
