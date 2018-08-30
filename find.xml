@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\Web\WebResponse.cs'" />
-    <option name="defaultScopeName" value="File '...\Web\WebResponse.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\Web\WebResponse.cs'" />
+    <option name="customScope" value="File '...\Statsd\Channels\UdpChannel.cs'" />
+    <option name="defaultScopeName" value="File '...\Statsd\Channels\UdpChannel.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\Statsd\Channels\UdpChannel.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
