@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\SolarWind.Tests\TestServer.cs'" />
-    <option name="defaultScopeName" value="File '...\SolarWind.Tests\TestServer.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\SolarWind.Tests\TestServer.cs'" />
+    <option name="customScope" value="File '...\SolarWind.Tests\SendStabilityTests.cs'" />
+    <option name="defaultScopeName" value="File '...\SolarWind.Tests\SendStabilityTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\SolarWind.Tests\SendStabilityTests.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
