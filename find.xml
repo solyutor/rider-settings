@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\aspnetapp\Domain\SexStatusExtensions.cs'" />
-    <option name="defaultScopeName" value="File '...\aspnetapp\Domain\SexStatusExtensions.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Domain\SexStatusExtensions.cs'" />
+    <option name="customScope" value="File '...\aspnetapp\Collections\HDict.cs'" />
+    <option name="defaultScopeName" value="File '...\aspnetapp\Collections\HDict.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Collections\HDict.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
