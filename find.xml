@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\aspnetapp\Domain\SexStatusIndex.cs'" />
-    <option name="defaultScopeName" value="File '...\aspnetapp\Domain\SexStatusIndex.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Domain\SexStatusIndex.cs'" />
+    <option name="customScope" value="File '...\aspnetapp\Controllers\NewHandler.cs'" />
+    <option name="defaultScopeName" value="File '...\aspnetapp\Controllers\NewHandler.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Controllers\NewHandler.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
