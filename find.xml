@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\tests\NewHandlerTests.cs'" />
-    <option name="defaultScopeName" value="File '...\tests\NewHandlerTests.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\tests\NewHandlerTests.cs'" />
+    <option name="customScope" value="File '...\aspnetapp\Controllers\SuggestQuery.cs'" />
+    <option name="defaultScopeName" value="File '...\aspnetapp\Controllers\SuggestQuery.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Controllers\SuggestQuery.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
