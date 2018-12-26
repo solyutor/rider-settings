@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\aspnetapp\Controllers\GroupKey.cs'" />
-    <option name="defaultScopeName" value="File '...\aspnetapp\Controllers\GroupKey.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Controllers\GroupKey.cs'" />
+    <option name="customScope" value="File '...\aspnetapp\Domain\Like.cs'" />
+    <option name="defaultScopeName" value="File '...\aspnetapp\Domain\Like.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Domain\Like.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
