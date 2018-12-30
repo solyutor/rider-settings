@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\aspnetapp\Domain\Email.cs'" />
-    <option name="defaultScopeName" value="File '...\aspnetapp\Domain\Email.cs'" />
-    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Domain\Email.cs'" />
+    <option name="customScope" value="File '...\aspnetapp\Domain\LikesIndexer.cs'" />
+    <option name="defaultScopeName" value="File '...\aspnetapp\Domain\LikesIndexer.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Domain\LikesIndexer.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
