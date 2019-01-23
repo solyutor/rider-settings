@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\aspnetapp\Sys\MemoryEmail.cs'" />
-    <option name="defaultScopeName" value="File '...\aspnetapp\Sys\MemoryEmail.cs'" />
+    <option name="customScope" value="File '...\aspnetapp\Sys\Utf8String.cs'" />
+    <option name="defaultScopeName" value="File '...\aspnetapp\Sys\Utf8String.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Sys\MemoryEmail.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\aspnetapp\Sys\Utf8String.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
