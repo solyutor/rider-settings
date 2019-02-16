@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\bench\UnsafeLIstEnumeratorBenchmark.cs'" />
-    <option name="defaultScopeName" value="File '...\bench\UnsafeLIstEnumeratorBenchmark.cs'" />
+    <option name="customScope" value="File '...\tests\Web\QueryParserTests.cs'" />
+    <option name="defaultScopeName" value="File '...\tests\Web\QueryParserTests.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\bench\UnsafeLIstEnumeratorBenchmark.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\tests\Web\QueryParserTests.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
