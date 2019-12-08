@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\tests\hlc18\DataLoaderTests.cs'" />
-    <option name="defaultScopeName" value="File '...\tests\hlc18\DataLoaderTests.cs'" />
+    <option name="customScope" value="File '...\hlc18\Domain\Database.cs'" />
+    <option name="defaultScopeName" value="File '...\hlc18\Domain\Database.cs'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\tests\hlc18\DataLoaderTests.cs'" />
+    <option name="SEARCH_SCOPE" value="File '...\hlc18\Domain\Database.cs'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
